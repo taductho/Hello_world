@@ -1,2 +1,3 @@
 # Hello_world
-Just hello repository
+Hello, this's my first project
+Thanks!
